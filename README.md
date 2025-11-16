@@ -1,16 +1,16 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰Ariyan Bot🔰`" alt="">
 </p>
     
 <a><img       
 src='https://i.imgur.com/LyHic3i.gif'/></a>
-###  🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰
+###  🔰Ariyan Bot🔰
 ❖ ***`বট রান দিতে সমস্যা হলে ফেসবুকে যোগাযোগ করো
 ❖👇নিচে আইডির লিঙ্ক আছে👇❖`** ❖
 
 ----------
-## Facebook ID:👉 <a href="https://www.facebook.com/share/1GrA4ABWFT/">Link</a>
+## Facebook ID:👉 <https://www.facebook.com/profile.php?id=61581898917914>Link</a>
 -------
 ## কীভাবে বানাবো:👉 <a href="https://vm.tiktok.com/ZMAkVToUv/">ফুল ভিডিও</a>
 -------
@@ -19,12 +19,12 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 -------
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`🔰Ariyan Bot🔰`" alt="">
 </p>
 
-# 🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰 - By Rahat islam
+# 🔰Ariyan Bot🔰 - By Ariyan islam
 
-A customized and powerful multi-purpose chatbot framework for Facebook Messenger, based on the original  by Ullash. This version is tailored and improved by **Rahat islam** with additional integrations, command structure enhancements, and admin tools.
+A customized and powerful multi-purpose chatbot framework for Facebook Messenger, based on the original  by Ullash. This version is tailored and improved by **Ariyan islam** with additional integrations, command structure enhancements, and admin tools.
 
 > ⚠️ This is a modified version. See License section below for usage rights.
 
