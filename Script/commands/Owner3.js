@@ -59,16 +59,16 @@ module.exports.run = async function({ api, event }) {
     let y = cardY + 220;
 
     const info = [
-        "👑 Name : shakib Islam",
-        "🧸 Nickname : shakib",
+        "👑 Name : ARIYAN Islam",
+        "🧸 Nickname : ARIYAN",
         "🎂 Age : 17",
         "💘 Relation : Single",
         "🎓 Profession : Student",
-        "🏡 Address : Rajshahi",
+        "🏡 Address : CHITTAGONG ",
         "",
         "🔗 CONTACT LINKS",
-        "📘 Facebook : fb.com/100065714953914",
-        "💬 Messenger : m.me/100065714953914"
+        "📘 Facebook : fb.com/61581898917914",
+        "💬 Messenger : m.me/61581898917914"
     ];
 
     for (const line of info) {
@@ -92,7 +92,7 @@ module.exports.run = async function({ api, event }) {
     fs.writeFileSync(filePath, buffer);
 
     api.sendMessage({
-        body: "💙 Shakib 𝗕𝗼𝘁 💙\n✨ Owner Information ✨",
+        body: "💙 ARIYAN 𝗕𝗼𝘁 💙\n✨ Owner Information ✨",
         attachment: fs.createReadStream(filePath)
     }, threadID, messageID);
 };
