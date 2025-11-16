@@ -15,7 +15,7 @@ src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## কীভাবে বানাবো:👉 <a href="https://vm.tiktok.com/ZMAkVToUv/">ফুল ভিডিও</a>
 -------
 
-<img src='/>
+<img https://imgur.com/a/sK5dYee src='/>
 
 -------
 <p align="center">
